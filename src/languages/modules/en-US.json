@@ -1,0 +1,18 @@
+{
+  "pages": {
+    "not_found": {
+      "sub_title": "Sorry, the page you visited does not exist.",
+      "back_home_btn": "Back Home"
+    },
+    "login": {
+      "error_message": "Incorrect username/password",
+      "success_message": "Login Success",
+      "label_username": "Username",
+      "rule_required_username": "Please input your username!",
+      "label_password": "Password",
+      "rule_required_password": "Please input your password!",
+      "label_forgot_password": "Forgot Password ?",
+      "submit_login_btn": "Login"
+    }
+  }
+}

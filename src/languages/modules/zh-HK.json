@@ -1,0 +1,18 @@
+{
+  "pages": {
+    "not_found": {
+      "sub_title": "對不起，您訪問的頁面不存在。",
+      "back_home_btn": "返回主頁"
+    },
+    "login": {
+      "error_message": "錯誤的用戶名和密碼",
+      "success_message": "登錄成功",
+      "label_username": "用戶名",
+      "rule_required_username": "用戶名是必填項！",
+      "label_password": "密碼",
+      "rule_required_password": "密碼是必填項！",
+      "label_forgot_password": "忘記密碼 ?",
+      "submit_login_btn": "登錄"
+    }
+  }
+}
